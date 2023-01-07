@@ -1,8 +1,8 @@
 # Binance-Futures-panel
 Panel with various indicators
 
-# The idea is to place several powerful indicators within one window, so that one could react quickly.
-### This is the initial version, and the plan is to add more indicators, and later it will flow into a real BOT.
+## The idea is to place several powerful indicators within one window, so that one could react quickly.
+__ This is the initial version, and the plan is to add more indicators, and later it will flow into a real BOT.
 ### It uses CCXT, PYSIMPLEGUI and PANDAS libraries.
 ### Suggestions are always welcome.
 ### If it helps you become a millionaire or you find it useful, 
