@@ -7,8 +7,15 @@ It uses CCXT, PYSIMPLEGUI and PANDAS libraries.
 Suggestions are always welcome.
 If it helps you become a millionaire, I don't mind if you send me some TRON or ALGO (and at the same time motivate me to improve the software).
 
+```shell
 ALGO Algorand:		H3OQPUDOGTWRR765BLO4YM3GETGMHKCS4VZ7SXYQGGKJBXHVWIDVO27BLE
+```
+```shell
 TRX Tron (TRC20):	TUdoyboHtVFJuSZ59Wcdg8WfKfpB5byAKG
+```
+
+
+
 
 * Some screenshots
 
