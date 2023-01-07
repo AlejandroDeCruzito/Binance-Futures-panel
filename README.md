@@ -19,7 +19,7 @@ TUdoyboHtVFJuSZ59Wcdg8WfKfpB5byAKG
 
 
 
-* Some screenshots
+Some screenshots
 
 ![](algo_screenshot.png)
 
