@@ -2,10 +2,10 @@
 Panel with various indicators
 
 # The idea is to place several powerful indicators within one window, so that one could react quickly.
-#This is the initial version, and the plan is to add more indicators, and later it will flow into a real BOT.
-#It uses CCXT, PYSIMPLEGUI and PANDAS libraries.
-#Suggestions are always welcome.
-#If it helps you become a millionaire or you find it useful, 
+# This is the initial version, and the plan is to add more indicators, and later it will flow into a real BOT.
+# It uses CCXT, PYSIMPLEGUI and PANDAS libraries.
+# Suggestions are always welcome.
+# If it helps you become a millionaire or you find it useful, 
 ## I don't mind if you send me some TRON or ALGO (and at the same time motivate me to improve the software).
 
 ALGO Algorand
