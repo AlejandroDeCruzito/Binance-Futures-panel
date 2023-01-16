@@ -7,6 +7,8 @@ Panel with various indicators
 * Suggestions are always welcome.
 * If it helps you become a millionaire or you find it useful, I don't mind if you send me some TRON or ALGO (and at the same time motivate me to improve the software).
 
+* [__Short video__](https://www.youtube.com/watch?v=THt6c2rVFCg)
+
 ALGO Algorand
 ```shell
 H3OQPUDOGTWRR765BLO4YM3GETGMHKCS4VZ7SXYQGGKJBXHVWIDVO27BLE
